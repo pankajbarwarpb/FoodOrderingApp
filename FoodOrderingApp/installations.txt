@@ -1,0 +1,4 @@
+npm i @react-navigation/native
+    npm i @react-navigation/native-stack@latest
+    npm i react-native-screens@latest
+    npm i react-native-safe-area-context@3.3.2

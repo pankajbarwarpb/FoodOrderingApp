@@ -1,0 +1,7 @@
+#Sat Sep 02 12:14:33 IST 2023
+base.0=D\:\\React Native\\Apps\\FoodOrderingApp\\android\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=D\:\\React Native\\Apps\\FoodOrderingApp\\android\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\11\\classes.dex
+path.0=0/classes.dex
+path.1=11/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
